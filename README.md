@@ -1,4 +1,4 @@
-# 🚀 Finetuning Large Language Models Course Journey - In Collaboration with Lamini 🚀
+# 🚀 Finetuning Large Language Models Course Journey - In Collaboration with DeepLearning.ai and Lamini 🚀
 
 🌟 Welcome to my journey through the "Finetuning Large Language Models" course, an expertly designed experience in collaboration with Lamini. Led by Sharon Zhou, Co-Founder and CEO of Lamini, this course deep dives into the world of LLMs, exploring the art and science of finetuning them for specific applications.
 
@@ -24,7 +24,7 @@ This section is designed to document the structure of your learning and project 
   - **Readme.md:** Documentation on the project's purpose, my approach, challenges faced, and insights gained.
 
 ### 🎉 Gratitude
-I want to express my gratitude to Lamini, Sharon Zhou, and the broader community of educators and learners. This journey into the nuances of finetuning LLMs has been incredibly rewarding, and I'm excited to share my learnings with all of you.
+I want to express my gratitude to DeepLearning.ai and Lamini, Sharon Zhou, and the broader community of educators and learners. This journey into the nuances of finetuning LLMs has been incredibly rewarding, and I'm excited to share my learnings with all of you.
 
 For anyone interested in embarking on this learning journey, I encourage you to explore [Lamini's course page](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
