@@ -26,6 +26,7 @@ This section is designed to document the structure of your learning and project 
 ### 🎉 Gratitude
 I want to express my gratitude to Lamini, Sharon Zhou, and the broader community of educators and learners. This journey into the nuances of finetuning LLMs has been incredibly rewarding, and I'm excited to share my learnings with all of you.
 
-For anyone interested in embarking on this learning journey, I encourage you to explore [Lamini's course page](#).
+For anyone interested in embarking on this learning journey, I encourage you to explore [Lamini's course page](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+
 
 **Happy Learning! 🚀**
